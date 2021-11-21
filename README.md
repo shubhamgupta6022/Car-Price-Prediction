@@ -1,5 +1,5 @@
 # Car Price Prediction 
-Live link (https://car-price-prediction-101803359.herokuapp.com/predict)
+
 ## Pre-requisites
 Installation with pip:
 
